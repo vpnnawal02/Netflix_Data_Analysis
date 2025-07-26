@@ -42,7 +42,7 @@ Netflix Movies and TV Shows — [Kaggle Link](https://www.kaggle.com/datasets/sh
 ### 🚀 How to Run This Project
 
 ```bash
-git clone https://github.com/your-username/netflix-data-analysis.git
+git clone https://github.com/vpnnawal02/netflix-data-analysis.git
 cd netflix-data-analysis
 pip install -r requirements.txt
 jupyter notebook analysis.ipynb
